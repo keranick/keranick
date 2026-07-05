@@ -1,5 +1,6 @@
-## Hi there 👋
+<img src="tupa_girl.png" width="200px" />
 
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,robloxstudio)](https://skillicons.dev)
 <!--
 **keranick/keranick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

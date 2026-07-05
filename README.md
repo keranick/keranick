@@ -1,4 +1,4 @@
-<img src="tupa_girl.jpg" width="200px" />
+<img src="tupa_girl.jpg" width="220px" />
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,robloxstudio)](https://skillicons.dev)
 <!--

@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,robloxstudio)](https://skillicons.dev)
 
-[snake gif](https://github.com/keranick/keranick/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/keranick/keranick/blob/output/github-snake-dark.svg)
 
 <!--
 **keranick/keranick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

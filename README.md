@@ -1,6 +1,14 @@
-<img src="tupa_girl.jpg" width="220px" />
+<p align="center">
+  <!-- Картинка девочки -->
+  <img src="tupa_girl.jpg" width="220px" alt="Tupa Girl" />
+  <br><br> <!-- Отступы между картинкой и иконками -->
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,robloxstudio)](https://skillicons.dev)
+  <!-- Иконки навыков по центру -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,robloxstudio" alt="My Skills" />
+  </a>
+</p>
+
 
 ![snake gif](https://github.com/keranick/keranick/blob/output/github-snake-dark.svg)
 

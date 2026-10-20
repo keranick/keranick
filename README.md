@@ -5,7 +5,7 @@
 
   <!-- Иконки навыков по центру -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,html,css,robloxstudio" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,html,css,robloxstudio" height=75 alt="My Skills" />
   </a>
 </p>
 

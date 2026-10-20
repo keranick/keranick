@@ -1,6 +1,9 @@
 <img src="tupa_girl.jpg" width="220px" />
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,robloxstudio)](https://skillicons.dev)
+
+[snake gif](https://github.com/keranick/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 <!--
 **keranick/keranick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
